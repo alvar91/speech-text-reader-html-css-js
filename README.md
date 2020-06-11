@@ -1,6 +1,6 @@
 ## Speech Text Reader
 
-A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
+[Demo](https://alvar91.github.io/speech-text-reader-html-css-js/) A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
 
 ## Project Specifications
 
